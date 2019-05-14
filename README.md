@@ -1,4 +1,4 @@
-<img src="photo.png" align="right" />  
+<img src="photo.png" align="right" width="189" height="255" />  
 
 ### Никифорова Маргарита
 
