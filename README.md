@@ -7,7 +7,7 @@
 E-mail: nikiforova.rita@gmail.com    
 [Профиль Hexlet](https://ru.hexlet.io/u/nimfa_margo )                        
 
-**Желаемая должность**: Младший frontend разработчик   
+**Желаемая должность**: Junior frontend developer   
 **Ключевые навыки**: JavaScript, React, Redux    
 
 ## Проекты Hexlet:
