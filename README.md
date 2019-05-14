@@ -5,7 +5,7 @@
 Дата Рождения: 27.11.1995                              
 Телефон: +7 (977) 476 82 79                              
 E-mail: nikiforova.rita@gmail.com    
-[Профиль Hexlet](https://ru.hexlet.io/u/nimfa_margo )                        
+[Профиль Hexlet](https://ru.hexlet.io/u/nimfa_margo)                        
 
 **Желаемая должность**: Junior frontend developer   
 **Ключевые навыки**: JavaScript, React, Redux    
