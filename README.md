@@ -15,7 +15,7 @@ E-mail: nikiforova.rita@gmail.com
 Простая копия Slack. Сделала фронтенд к готовому бэкенду.   
 Использовала: React, Redux, Bootstrap, Webpack, Heroku, Travis CI.   
 Проблемы, решенные во время работы:
-1. Настройка и работа с websocket;
+1. Настройка websocket;
 2. Использование модального окна вместе с redux-формой;
 3. Написание API документации для бэкенда;
 
