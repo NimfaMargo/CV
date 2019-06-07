@@ -2,8 +2,7 @@
 
 ## Никифорова Маргарита
 
-Дата Рождения: 27.11.1995                              
-Телефон: +7 (977) 476 82 79                              
+Дата Рождения: 27.11.1995                                                        
 E-mail: nikiforova.rita@gmail.com    
 [Профиль Hexlet](https://ru.hexlet.io/u/nimfa_margo)                        
 
